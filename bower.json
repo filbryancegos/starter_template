@@ -1,0 +1,28 @@
+{
+  "name": "Fil Bryan",
+  "version": "0.0.0",
+  "homepage": "https://github.com/filbryancegos/",
+  "authors": [
+    "Fil Bryan Egos <filbryancegos@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3",
+    "fontawesome": "~4.3.0",
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  },
+  "description": "starter_template_bootstrap_fontawesome_sass",
+  "main": "index",
+  "keywords": [
+    "starter"
+  ],
+  "private": true
+}

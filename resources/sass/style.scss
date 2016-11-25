@@ -1,0 +1,25 @@
+// Add custom font
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,300);
+$font-family-base: 'Raleway', sans-serif;
+
+// Import bootstrap and fontawesome
+@import "bootstrap";
+@import "font-awesome";
+// Bootstrap Starter Template Styles
+body {
+  background: #000;
+}
+.starter-template {
+  padding: 40px 40px;
+  text-align: center;
+}
+.main-bg {
+    background: url("../images/sample-image.jpg") no-repeat;
+    width: 100%;
+    height: 740px;
+    background-size: cover;
+}
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
